@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 cool B!
+=======
+this is cool!
+>>>>>>> e8a03b9208587b60b965e323b2bf8dca3fe52936
